@@ -1,0 +1,7 @@
+E:\PracticeTest\Experiment2\Experiment2\bin\Debug\Experiment2.exe.config
+E:\PracticeTest\Experiment2\Experiment2\bin\Debug\Experiment2.exe
+E:\PracticeTest\Experiment2\Experiment2\bin\Debug\Experiment2.pdb
+E:\PracticeTest\Experiment2\Experiment2\obj\Debug\Experiment2.csprojAssemblyReference.cache
+E:\PracticeTest\Experiment2\Experiment2\obj\Debug\Experiment2.csproj.CoreCompileInputs.cache
+E:\PracticeTest\Experiment2\Experiment2\obj\Debug\Experiment2.exe
+E:\PracticeTest\Experiment2\Experiment2\obj\Debug\Experiment2.pdb
